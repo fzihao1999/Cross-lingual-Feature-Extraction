@@ -1,0 +1,20 @@
+10:
+Coverage: 92.32% Accuracy: 51.37%
+9:
+Coverage: 92.32% Accuracy: 51.52%
+8:
+Coverage: 92.25% Accuracy: 48.96%
+7:
+Coverage: 92.32% Accuracy: 51.97%
+6:
+Coverage: 92.39% Accuracy: 47.18%
+5:
+Coverage: 92.39% Accuracy: 48.74%
+4:
+Coverage: 92.39% Accuracy: 45.70%
+3:
+Coverage: 92.32% Accuracy: 43.80%
+2:
+Coverage: 92.19% Accuracy: 41.86%
+1:
+Coverage: 91.57% Accuracy: 37.43%
